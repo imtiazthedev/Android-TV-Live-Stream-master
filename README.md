@@ -1,27 +1,4 @@
-# Android Tv Live Stream   
-<h2 align="center">Send text to my social platform for developing web projects.</h2>
 
-<p align="center">
-  <a href="https://stackoverflow.com/users/8378231/engr-saad">
-    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Saad's Stack Overflow Profile" height="30" width="30">
-  </a>   
-  
-  <a href="https://www.codewars.com/users/EngrSaad2">
-    <img src="https://camo.githubusercontent.com/c6341567c3ede1b4ee0935509a378c482153026f/687474703a2f2f7777772e736f66746c61622e6e7475612e67722f7e6e69636b69652f696d616765732f6c6f676f2f636f6465776172732e706e67" alt="Saad's Codewars Profile" height="30" width="30">
-  </a>
-
-  <a href="https://dev.to/engrsaad" style="display: inline;">
-    <img src="https://lh3.googleusercontent.com/mmiuKzIq5YPFyjrfFsiNqeGuJY-Rp6wVvE8kus6vuunOnqInN16GTCCUX1937vEbKw" alt="Saad's DEV Profile" height="30" width="30">
-  </a>
-   
-   <a href="https://hashnode.com/@EngrSaad">
-    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1592752137870/scHk9tTaA.png?auto=compress" alt="Saad's Hashnode Profile" height="30" width="30">
-  </a>
-  
-  <a href="https://medium.com/@EngrSaad">
-    <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Saad's Medium Profile" height="30" width="30">
-  </a>
-  
   <a href="https://stackshare.io/EngrSaad">
     <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" alt="Saad's StackShare Profile" height="30" width="30">
   </a>
