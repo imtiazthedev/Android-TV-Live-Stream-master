@@ -1,5 +1,5 @@
 Developer: <b>Full Stack Engineer : Imtiaz</b> <br>
-Email: simtiazs.dev@gmail.com<br>
+Email: imtiazs.dev@gmail.com<br>
 Website: https://engr-saad.com <br>
 
 A sample app for Android TV written in Java that utilizes the KenticoCloudDeliveryJavaRxSDK to manage and retrieve content You can register your account for free at https://app.kenticocloud.com...
